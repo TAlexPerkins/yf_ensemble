@@ -1,0 +1,366 @@
+data.set,outbreak.id,report.date,year.start,month.start,year.end,month.end,year,country,shp.type,adm1,adm2,adm3,lon,lat,province,district,subdistrict,cases.reported,cases.confirmed,deaths.reported,deaths.confirmed,test,response.campaign,remark,lit.ref,adm0_adm1
+don,363,24-Apr-14,2013,12,2014,NA,2014,COD,gadm2,9,34,NA,NA,NA,Orientale,Bas-Uele,"Bondo, Buta",116,5,NA,NA,"IgM, PRNT",planned,"mass vaccination campaign, 559876 doses (where??), planned for 1 May 2014",NA,COD_9
+don,363,24-Apr-14,2014,2,2014,NA,2014,COD,gadm2,6,23,NA,NA,NA,Katanga ,Haut-Lomami,Kikondja ,23,1,NA,NA,"IgM, PRNT",planned,"mass vaccination campaign, 559876 doses (where??), planned for 1 May 2014",NA,COD_6
+don,362,3-Dec-13,2013,10,2013,11,2013,SDN,gadm2,5,13,NA,NA,NA,Kordofan,South Kordofan State,NA,NA,NA,NA,NA,"IgM, PRNT",planned,NA,NA,SDN_5
+don,361,8-Oct-13,2013,4,NA,NA,2013,CMR,gadm1,5,NA,NA,NA,NA,Littoral,Ndom health district,NA,2,2,NA,NA,"IgM, PRNT",yes,"663900 people in 13 health districts in Littoral region, 94% coverage reported",NA,CMR_5
+don,360,14-Jun-13,2013,3,NA,NA,2013,COD,gadm3,5,19,22753,NA,NA,Kasai-Oriental,Kabinda,Lubao,NA,4,NA,NA,NA,yes,"503426 people targeted in the 3 health zones affected, 559000 doses",NA,COD_5
+don,360,14-Jun-13,2013,3,NA,NA,2013,COD,gadm3,8,31,22792,NA,NA,Kivu,Maniema,Kibombo: Kamana,NA,1,NA,NA,NA,yes,"503426 people targeted in the 3 health zones affected, 559000 doses",NA,COD_8
+don,359,31-May-13,2013,1,NA,NA,2013,ETH,gadm2,10,65,NA,NA,NA,"Southern Nations, Nationalities and Peoples",South Omo,NA,6,6,NA,NA,IgM,yes,527000 people targeted in 6 districts +1 town in South Omo Zone,NA,ETH_10
+don,358,14-Feb-13,2012,12,2012,12,2012,TCD,gadm1,18,NA,NA,NA,NA,Wadi Fira,Goz Beida & Guereda,NA,NA,2,NA,NA,NA,yes,">1million people in Goz Beida, Guereda &Andre districts (neighbouring Darfur in Sudan)",NA,TCD_18
+don,358,14-Feb-13,2012,12,2012,12,2012,TCD,gadm1,14,NA,NA,NA,NA,Ouaddai,NA,NA,NA,0,NA,NA,NA,yes,">1million people in Goz Beida, Guereda &Andre districts (neighbouring Darfur in Sudan)",NA,TCD_14
+don,357,12-Dec-12,2012,10,2012,10,2012,COG,gadm2,2,7,NA,NA,NA,Cuvette West region,Ewo,"Mbama, Ewo, Okoyo",NA,1,NA,NA,NA,yes,"35000 people targeted, case identified through surveillance",NA,COG_2
+don,356,6-Dec-12,2012,9,2012,12,2012,SDN,gadm1,2,NA,NA,NA,NA,Darfur,"Darfur, 33 of 64 localities affected",NA,732,40,165,NA,IgM Elisa & RT-PCR,yes,"mass vaccination campaign in the 12 most affected localities, targeting 2.2 million people from 21 Nov 2012, 2nd phase mass vaccination targeting an additional 1.2 million people, planned for December",NA,SDN_2
+don,1,3-Feb-12,2011,10,2011,12,2011,CMR,gadm2,7,39,CMP006003003000000000,NA,NA,North,Mayo Louti,Guider,NA,NA,NA,NA,NA,yes,NA,NA,CMR_7
+don,1,3-Feb-12,2011,10,2011,12,2011,CMR,gadm2,7,37,CMP006004003000000000,NA,NA,North,Benoue,Bibemi,NA,NA,NA,NA,NA,yes,NA,NA,CMR_7
+don,1,3-Feb-12,2011,10,2011,12,2011,CMR,gadm2,7,37,CMP006004001000000000,13.362007,9.428741,North,Benoue,Gaschiga,NA,NA,NA,NA,NA,yes,NA,NA,CMR_7
+don,1,3-Feb-12,2011,10,2011,12,2011,CMR,gadm2,7,37,CMP006004001000000000,13.662672,9.056159,North,Benoue,Lagdo,NA,NA,NA,NA,NA,yes,NA,NA,CMR_7
+don,1,3-Feb-12,2011,10,2011,12,2011,CMR,gadm2,7,39,CMP006003001000000000,NA,NA,North,Mayo Louti,Mayo Oulo,NA,NA,NA,NA,NA,yes,NA,NA,CMR_7
+don,1,3-Feb-12,2011,10,2011,12,2011,CMR,gadm2,7,39,CMP006003004000000000,13.861198,9.650846,North,Mayo Louti,Golombe,NA,NA,NA,NA,NA,yes,NA,NA,CMR_7
+don,5,25-Jan-11,NA,NA,2011,1,2011,CIV,gadm3,18,47,NA,NA,NA,Worodougou,SŽguŽla,NA,14,NA,10,NA,NA,yes,NA,NA,CIV_18
+don,5,25-Jan-11,NA,NA,2011,1,2011,CIV,gadm3,18,46,NA,NA,NA,Worodougou,Mankono,NA,1,NA,0,NA,NA,yes,NA,NA,CIV_18
+don,5,25-Jan-11,NA,NA,2011,1,2011,CIV,gadm3,17,41,NA,NA,NA,VallŽe du Bandama,Beoumi,NA,18,NA,9,NA,NA,yes,NA,NA,CIV_17
+don,5,25-Jan-11,NA,NA,2011,1,2011,CIV,gadm3,17,44,NA,NA,NA,VallŽe du Bandama,Katiola,NA,46,NA,16,NA,NA,yes,NA,NA,CIV_17
+don,2,3-Feb-12,2011,10,NA,NA,2011,GHA,gadm2,7,98,NA,NA,NA,Upper East,Builsa,NA,NA,1,NA,NA,NA,yes,NA,NA,GHA_7
+don,2,3-Feb-12,2011,10,NA,NA,2011,GHA,gadm2,7,100,NA,NA,NA,Upper East,Kassena-Nankana-West,NA,NA,1,NA,1,NA,yes,NA,NA,GHA_7
+don,2,3-Feb-12,2011,10,NA,NA,2011,GHA,gadm2,2,NA,NA,NA,NA,Brong Ahafo,Kitampo-South,NA,NA,1,NA,NA,NA,yes,NA,NA,GHA_2
+don,3,1-Dec-11,2011,7,2011,8,2011,SEN,gadm2,9,23,NA,NA,NA,Tambacounda,Kedougou,Kedougou,NA,NA,NA,NA,NA,yes,NA,NA,SEN_9
+don,3,1-Dec-11,2011,7,2011,8,2011,SEN,gadm2,9,23,NA,NA,NA,Tambacounda,Kedougou,Saraya,NA,NA,NA,NA,NA,yes,NA,NA,SEN_9
+don,4,11-Mar-11,2011,1,2011,2,2011,SLE,gadm2,3,10,NA,NA,NA,NA,Bonthe,NA,2,2,NA,NA,IgM Elisa,yes,NA,NA,SLE_3
+don,9,27-May-10,2010,1,NA,NA,2010,CMR,gadm1,9,NA,CMP010004001000000000,NA,NA,south western,Kumba,NA,NA,1,NA,NA,"IgM Elisa, PRNT",yes,NA,NA,CMR_9
+don,10,24-Feb-10,2009,10,2010,1,2010,CMR,gadm2,8,46,CMP008004002000000000,NA,NA,Western region,NA,Banjoun,2,2,2,2,NA,yes,NA,NA,CMR_8
+don,10,24-Feb-10,2009,10,2010,1,2010,CMR,gadm2,8,48,CMP010006001000000000,NA,NA,Western region,NA,Fantun/Fombat,1,1,1,1,NA,yes,"cases exported from the Gambia, Tanji locality",NA,CMR_8
+NA,314,wer 8634,2010,6,NA,NA,2010,CMR,gadm1,10,NA,NA,NA,NA,Southern,Ebolowa,NA,3,3,0,0,NA,no,NA,NA,CMR_10
+NA,315,wer 8634,2010,9,NA,NA,2010,CMR,gadm1,5,NA,NA,NA,NA,Littoral,Nkongsamba,NA,2,2,0,0,NA,no,NA,NA,CMR_5
+NA,316,wer 8604,2009,5,NA,NA,2009,TCD,gadm1,18,NA,NA,NA,NA,Wadi Fira,Irida,NA,3,1,NA,NA,NA,no,NA,NA,TCD_18
+don,8,"don 19-Jul-2010, wer 8634",2010,3,2010,7,2010,COD,gadm2,9,34,NA,NA,NA,Orientale,Base Ouele,Titule,12,2,2,NA,"IgM Elisa, PRNT",no,NA,NA,COD_9
+NA,317,wer 8634,2010,1,2010,NA,2010,GIN,gadm2,4,14,NA,NA,NA,Kankan region,Mandiana prefecture,NA,9,2,0,0,NA,yes,NA,NA,GIN_4
+don,7,"don 05-Oct-2010, wer 8634",2010,9,NA,NA,2010,SEN,gadm2,10,25,NA,NA,NA,Thies,Mbour,NA,1,1,NA,NA,NA,no,NA,NA,SEN_10
+don,7,"don 05-Oct-2010, wer 8634",2010,9,NA,NA,2010,SEN,gadm1,10,NA,NA,NA,NA,Thies,NA,NA,1,0,NA,NA,NA,no,NA,NA,SEN_10
+don,6,"don 19-Jan-2011, wer 8605",2010,10,NA,NA,2010,UGA,gadm3,28,73,102393,NA,NA,NA,Abim,NA,NA,1,NA,NA,NA,yes,NA,NA,UGA_28
+don,6,"don 19-Jan-2011, wer 8605",2010,10,NA,NA,2010,UGA,gadm2,49,136,NA,NA,NA,NA,Agago,NA,NA,1,NA,NA,NA,yes,NA,NA,UGA_49
+don,6,"don 19-Jan-2011, wer 8605",2010,10,NA,NA,2010,UGA,gadm3,27,69,102359,NA,NA,NA,Kitgum,NA,NA,1,NA,NA,NA,yes,NA,NA,UGA_27
+don,14,1-Oct-09,2009,9,NA,NA,2009,CMR,gadm2,9,49,CMP010001001000000000,NA,NA,South-West,Fako,Buea,1,1,0,0,NA,yes,NA,NA,CMR_9
+don,13,"don 1-Dec-2009, wer 8604",2009,9,2009,11,2009,CAF,gadm2,12,34,NA,NA,NA,Ombella Mpoko,YalokŽ-Bossembelle,NA,3,NA,NA,NA,NA,yes,NA,NA,CAF_12
+don,13,"don 1-Dec-2009, wer 8604",2009,9,2009,11,2009,CAF,gadm2,7,NA,NA,NA,NA,La Lobaye,Bagamongone,NA,1,NA,NA,NA,NA,yes,NA,NA,CAF_7
+don,12,"don 08-Jan-2010, wer 8604",2009,9,NA,NA,2009,CIV,gadm3,4,8,22531,NA,NA,Denguele,OdiennŽ,Minignan,NA,NA,NA,NA,NA,yes,NA,NA,CIV_4
+don,12,"don 08-Jan-2010, wer 8604",2009,9,NA,NA,2009,CIV,gadm3,4,8,22530,NA,NA,Denguele,OdiennŽ,Madinani,NA,NA,NA,NA,NA,yes,NA,NA,CIV_4
+don,11,"don 12-Jan-2010, wer 8604",2009,11,NA,NA,2009,GIN,gadm2,4,14,NA,NA,NA,Kankan region,Mandiana prefecture,NA,9,3,NA,NA,PRNT,yes,NA,NA,GIN_4
+don,15,"don 06-May-2009, wer 8604",2009,2,2009,3,2009,LBR,gadm2,8,39,NA,NA,NA,NA,Zorzor,NA,1,1,NA,NA,NA,yes,NA,NA,LBR_8
+don,16,"don 30-Apr-2009, wer 8604",2009,1,NA,NA,2009,COG,gadm2,2,9,NA,NA,NA,Cuvette West department,Mbama district,NA,1,1,NA,NA,NA,yes,NA,NA,COG_2
+don,19,"don 03-Nov-2008, wer 8604",2008,10,2008,10,2008,BFA,gadm2,41,281,NA,NA,NA,NA,Ouahigouya,NA,2,2,1,1,NA,yes,NA,NA,BFA_41
+NA,319,wer 8604,2008,9,2008,10,2008,CMR,gadm2,3,17,NA,NA,NA,Est,Haut Nyong,Abong Mbang and Nguelemendouka,2,2,2,2,NA,yes,NA,NA,CMR_3
+don,20,"don 30-Oct-2008, wer 8604",2008,8,2008,8,2008,CAF,gadm2,7,16,NA,NA,NA,La Lobaye,Boda,Ngotto,1,1,0,0,NA,yes,NA,NA,CAF_7
+don,23,"don 20-05-2008, wer 8604",2008,4,2008,5,2008,CAF,gadm2,14,41,NA,NA,NA,Ouham-PendŽ,Bozoum,NA,NA,2,NA,NA,NA,yes,NA,NA,CAF_14
+NA,320,wer 8604,2008,10,2008,12,2008,CAF,gadm2,12,31,NA,NA,NA,Ombella Mpoko,Bimbo,NA,1,1,NA,NA,NA,yes,NA,NA,CAF_12
+NA,320,wer 8604,2008,10,2008,12,2008,CAF,gadm2,5,11,NA,NA,NA,Haute Kotto,Bria,NA,1,1,NA,NA,NA,yes,NA,NA,CAF_5
+don,22,"don 08-Aug-2008, wer 8604",2008,5,2008,7,2008,CIV,gadm3,9,20,NA,NA,NA,Lagunes,Abidjan,Cocody,NA,NA,NA,NA,NA,yes,NA,NA,CIV_9
+don,22,"don 08-Aug-2008, wer 8604",2008,5,2008,7,2008,CIV,gadm3,9,20,NA,NA,NA,Lagunes,Abidjan,Treichville,NA,NA,NA,NA,NA,yes,NA,NA,CIV_9
+don,17,"don 14-Jan-2009, wer 8604",2008,11,2008,12,2008,GIN,gadm2,3,9,NA,NA,NA,NA,Faranah,NA,23,2,3,NA,NA,yes,NA,NA,GIN_3
+don,21,"don 29-Sep-2008, wer 8604",2008,7,2008,9,2008,GIN,gadm3,8,33,25591,NA,NA,N'zŽrŽkorŽ,Bounouma,NA,NA,1,NA,0,NA,yes,NA,NA,GIN_8
+don,21,"don 29-Sep-2008, wer 8604",2008,7,2008,9,2008,GIN,gadm3,8,33,25596,NA,NA,N'zŽrŽkorŽ,Urbain Commune,NA,NA,1,NA,0,NA,yes,NA,NA,GIN_8
+don,24,"don 25-Apr-2008, wer 8604",NA,NA,2008,4,2008,LBR,gadm2,12,53,NA,NA,NA,Nimba,Tappita,Zuotuo,NA,2,NA,1,NA,yes,NA,NA,LBR_12
+don,18,"don 06-Jan-2009, wer 8604",2008,10,2008,12,2008,SLE,gadm2,3,9,NA,NA,NA,NA,Bo,Gerihun,NA,NA,NA,NA,NA,yes,NA,NA,SLE_3
+don,18,"don 06-Jan-2009, wer 8604",2008,10,2008,12,2008,SLE,gadm2,3,9,NA,NA,NA,NA,Bo,Jembe,NA,NA,NA,NA,NA,yes,NA,NA,SLE_3
+who,35,wer 8413,2007,7,2007,7,2007,BFA,gadm2,38,263,NA,NA,NA,NA,Diapaga,Kadongou,4,2,NA,NA,NA,no,NA,NA,BFA_38
+who,37,wer 8413,2007,11,2007,11,2007,CMR,gadm2,3,17,NA,NA,NA,NA,NA,Messamena,1,1,0,0,NA,no,NA,NA,CMR_3
+who,38,wer 8413,2007,8,NA,NA,2007,MLI,gadm2,5,20,NA,NA,NA,Koulikoro,Kati,NA,2,1,0,1,NA,no,included in preventive campaign in 2008,NA,MLI_5
+don-who,25,"don 13-Feb-2007, wer 8413",2006,12,2007,1,2007,TGO,gadm2,2,9,NA,NA,NA,Kara,Koza,NA,1,1,0,0,NA,yes,NA,NA,TGO_2
+don-who,25,"don 13-Feb-2007, wer 8413",2006,12,2007,1,2007,TGO,gadm2,3,11,NA,NA,NA,Maritime,Lacs,NA,1,1,0,0,NA,yes,NA,NA,TGO_3
+don-who,25,"don 19-Dec-2006, wer 8413",2006,12,2007,1,2007,TGO,gadm2,5,20,NA,NA,NA,Savanes,Oti,NA,1,1,0,0,NA,yes,NA,NA,TGO_5
+don-who,25,"don 19-Dec-2006, wer 8413",2006,12,2007,1,2007,TGO,gadm1,2,NA,NA,NA,NA,Kara,Dankpen,NA,2,2,0,0,NA,yes,NA,NA,TGO_2
+who,44,wer 8308,2006,8,2006,8,2006,CMR,gadm2,2,11,NA,NA,NA,Akonolinga,Province du Centre,NA,1,1,0,0,NA,yes,"A mass vaccination campaign was conducted in 7 health districts (Adamaouoa province, Central province, East province, Extreme-Nord province, Ngaoundere urban and rural districts, Ntui and Yoko districts, Maroua and Meri rural districts and Messamena district) targeting population of 823,649 people, admin vaccination coverage was 93%",NA,CMR_2
+who,45,wer 8308,2006,11,2006,11,2006,CAF,gadm2,12,32,NA,NA,NA,Boyali II locality,Bossembele,NA,1,1,0,0,NA,yes,"A mass vaccination campaign was conducted targeting population of 6 000 people, admin vaccination coverage was 105%",NA,CAF_12
+don-who,26,"don 19-Oct-2006, wer 8306",NA,NA,2006,10,2006,CIV,gadm3,14,36,NA,NA,NA,Savanes,Korhogo,NA,NA,NA,NA,NA,NA,yes,NA,NA,CIV_14
+don-who,26,"don 19-Oct-2006, wer 8306",NA,NA,2006,10,2006,CIV,gadm3,6,13,22552,NA,NA,Fromager,Gagnoa,Ouaragahio,NA,NA,NA,NA,NA,yes,NA,NA,CIV_6
+who,48,wer 8308,2006,10,NA,NA,2006,GHA,gadm2,2,34,NA,NA,NA,Brong Ahafo,Sene,NA,9,1,0,0,NA,yes,"A mass vaccination campaign was conducted in 5  subdistricts of the Sene district, targeting population of 91 476 people, reported vaccination coverage was 89,6%",NA,GHA_2
+who,49,wer 8308,2006,6,NA,NA,2006,GIN,gadm2,3,10,NA,NA,NA,Kissidougou,Kountaya,NA,1,1,0,0,NA,no,Mass vaccination campaign considered as not being necessary since one took place in 2005,NA,GIN_3
+who,50,wer 8308,2006,9,NA,NA,2006,MLI,gadm2,8,44,NA,NA,NA,Sikasso,Yanfolila,NA,5,3,4,NA,NA,no,No reactive campaign took place since there was one in 2005,NA,MLI_8
+NA,32,"don 22-Sep-05, wer 8133",2005,8,2005,9,2005,BFA,gadm2,15,105,NA,NA,NA,NA,Banfora,NA,NA,NA,NA,NA,IgM Elisa,yes,"A mass vaccination campaign was conducted from Sept. 26th through Sept. 30th in the districts of Banfora, Batie and Gaoua taking 640,414 doses of vaccine ",NA,BFA_15
+NA,32,"don 22-Sep-05, wer 8133",2005,8,2005,9,2005,BFA,gadm2,31,200,NA,NA,NA,NA,Batie,NA,NA,NA,NA,NA,IgM Elisa,yes,"A mass vaccination campaign was conducted from Sept. 26th through Sept. 30th in the districts of Banfora, Batie and Gaoua taking 640,414 doses of vaccine ",NA,BFA_31
+NA,32,"don 22-Sep-05, wer 8133",2005,10,2005,10,2005,BFA,gadm2,24,159,NA,NA,NA,NA,Sedougou (= Dedougou?),NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,BFA_24
+NA,32,"don 22-Sep-05, wer 8133",2005,10,2005,10,2005,BFA,gadm2,8,NA,NA,NA,NA,NA,Diegougou,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,BFA_8
+NA,32,"don 22-Sep-05, wer 8133",2005,8,2005,8,2005,BFA,gadm2,31,203,NA,NA,NA,Poni,Gaoua,NA,NA,NA,NA,NA,IgM Elisa,yes,"A mass vaccination campaign was conducted from Sept. 26th through Sept. 30th in the districts of Banfora, Batie and Gaoua taking 640,414 doses of vaccine ",NA,BFA_31
+NA,32,"don 22-Sep-05, wer 8133",2005,11,2005,11,2005,BFA,gadm2,42,290,NA,NA,NA,Ziro,Sapouy,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,BFA_42
+who,36,wer 8413,2007,8,2007,9,2007,CMR,gadm2,2,13,NA,NA,NA,Province du Centre,Nyong et Mfoumou,Akonolinga,2,1,1,NA,NA,yes,Mass vaccination campaign took place from 19 - 28 November 2007,NA,CMR_2
+who,55,NA,NA,NA,NA,NA,2005,CMR,gadm2,2,9,NA,NA,NA,Centre,Ntui,NA,1,0,0,0,NA,no,NA,NA,CMR_2
+who,55,NA,NA,NA,NA,NA,2005,CMR,gadm2,1,5,NA,NA,NA,Extreme-Nord,Ngaoundere,NA,5,3,0,0,NA,no,NA,NA,CMR_1
+don,29,"don 7-Dec-2005, wer 8133",2005,9,2005,9,2005,CIV,gadm2,19,49,NA,NA,NA,Zanzan,Bouna,NA,1,1,1,1,NA,yes,"26588 people vaccinated, 89% in Bouna district. In a second vaccination campaign proceeded Jan. 29th through February 9th in 2006 a total of 153,235 people (coverage 89%) in the Bouna district and 101,830 (coverage 88.75%) in the Bondoukou district were v",NA,CIV_19
+NA,58,wer 8133,2005,1,2005,1,2005,GHA,gadm2,8,102,NA,NA,NA,Upper West,Jirapa-Lambussi,NA,NA,1,0,0,IgM Elisa,yes,NA,NA,GHA_8
+NA,321,wer 8133,2005,6,2005,6,2005,GHA,gadm2,1,11,NA,NA,NA,Ashanti,Atwima Mponua,NA,NA,1,0,0,IgM Elisa,yes,NA,NA,GHA_1
+NA,27,"don 19-Dec-2005, wer 8133",2005,6,2005,6,2005,GIN,gadm2,8,33,NA,NA,NA,NA,Nzerekore,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_8
+NA,27,"don 19-Dec-2005, wer 8133",2005,6,2005,8,2005,GIN,gadm2,7,26,NA,NA,NA,NA,Dalaba,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_7
+NA,27,"don 19-Dec-2005, wer 8133",2005,9,2005,9,2005,GIN,gadm2,5,20,NA,NA,NA,NA,Telimele,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_5
+NA,27,"don 19-Dec-2005, wer 8133",2005,9,2005,9,2005,GIN,gadm2,5,19,NA,NA,NA,NA,Kindia,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_5
+NA,27,"don 19-Dec-2005, wer 8133",2005,9,2005,9,2005,GIN,gadm2,1,5,NA,NA,NA,NA,Koudara,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_1
+NA,27,"don 19-Dec-2005, wer 8133",2005,10,2005,10,2005,GIN,gadm2,3,9,NA,NA,NA,NA,Faranah,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_3
+NA,27,"don 19-Dec-2005, wer 8133",2005,10,2005,10,2005,GIN,gadm2,6,21,NA,NA,NA,NA,Koubia,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_6
+NA,27,"don 19-Dec-2005, wer 8133",2005,11,2005,11,2005,GIN,gadm2,1,2,NA,NA,NA,NA,Boke,NA,NA,NA,NA,NA,IgM Elisa,yes,NA,NA,GIN_1
+don-who,30,"don 28-Nov-2005, wer 8133",2005,10,2005,11,2005,MLI,gadm2,3,6,NA,NA,NA,Kayes,Bafoulabe,NA,NA,12,NA,NA,NA,yes,NA,NA,MLI_3
+don-who,31,"don 20-Oct-2005, wer 8133",2005,9,2005,10,2005,SEN,gadm1,9,NA,NA,NA,NA,Tambacounda,Goudiri,NA,2,2,2,2,NA,yes,"The MoH with WHO and UNICEF support has organized a mass vaccination campaign in Goudiri and the neighbouring district of Kidira targeting a population of 150,000 persons, to control the transmission of disease in this region..  The vaccine utilized in th",NA,SEN_9
+NA,31,"don 20-Oct-2005, wer 8133",2005,9,2005,10,2005,SEN,gadm2,9,NA,NA,NA,NA,Tambacounda,Koumpentoum,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_9
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Dilling,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Kadugli,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Rashad,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Talodi,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Abu Jibeha,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Abyei,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+don,28,"don 9-Dec-2005, wer 8133",2005,9,2005,12,2005,SDN,gadm2,5,13,NA,NA,NA,South Kordofan State,Lagawa,NA,NA,NA,NA,NA,NA,yes,NA,NA,SDN_5
+who,66,wer 8029,2004,1,2004,1,2004,BFA,gadm2,31,203,NA,NA,NA,Sud-Ouest,Gaoua,NA,2,2,1,NA,NA,yes,80 000 people were vaccinated,NA,BFA_31
+NA,67,wer 8029,2004,5,2004,5,2004,BFA,gadm2,11,74,NA,NA,NA,NA,Bobo Dioulasso,NA,4,4,NA,NA,NA,yes,"1 227 138 people, achieving a level of immunization coverage of 97%.",NA,BFA_11
+NA,67,wer 8029,2004,5,2004,5,2004,BFA,gadm2,31,203,NA,NA,NA,NA,Gaoua,NA,1,1,NA,NA,NA,yes,"1 227 138 people, achieving a level of immunization coverage of 97%.",NA,BFA_31
+NA,67,wer 8029,2004,5,2004,5,2004,BFA,gadm2,18,123,NA,NA,NA,NA,Noua,NA,1,1,NA,NA,NA,yes,"1 227 138 people, achieving a level of immunization coverage of 97%.",NA,BFA_18
+NA,67,wer 8029,2004,5,2004,5,2004,BFA,gadm2,3,19,NA,NA,NA,NA,Solenzo,NA,1,1,NA,NA,NA,yes,"1 227 138 people, achieving a level of immunization coverage of 97%.",NA,BFA_3
+NA,322,wer 8029,2004,10,2004,10,2004,BFA,gadm2,22,152,NA,NA,NA,Leraba,Sindou,NA,1,1,1,1,NA,yes,protecting 126 937 people in 9 days.,NA,BFA_22
+who,72,wer 8029,NA,NA,NA,NA,2004,CIV,gadm2,19,49,NA,NA,NA,Zanzan,Bouna,NA,92,0,4,0,NA,Immunization,"26114 people immunized, 100% coverage",NA,CIV_19
+don-who,33,"don 07/01/2005, wer 8029",2004,10,2004,11,2004,GIN,gadm2,3,8,NA,NA,NA,Faranah,Dinguiraye,NA,6,6,NA,NA,NA,yes,NA,NA,GIN_3
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,2,NA,NA,NA,NA,Bong ,NA,NA,2,2,2,2,NA,NA,NA,NA,LBR_2
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,5,NA,NA,NA,NA,Grand Bassa ,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_5
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,6,NA,NA,NA,NA,Grand Cedeh,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_6
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,11,NA,NA,NA,NA,Montserrado,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_11
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,3,NA,NA,NA,NA,NA,Gparpolu,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_3
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,9,NA,NA,NA,NA,NA,Margibi,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_9
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,14,NA,NA,NA,NA,NA,River Gee,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_14
+who,76,"wer 7911, 7912, 8029",2004,2,NA,NA,2004,LBR,gadm1,12,NA,NA,NA,NA,Nimba ,NA,NA,2,2,2,2,NA,NA,NA,NA,LBR_12
+who,34,"don 6-Jan-2005, wer 8029",2004,11,2004,11,2004,MLI,gadm2,3,10,NA,NA,NA,Kayes,Kita cercles,NA,24,2,1,1,NA,yes,NA,NA,MLI_3
+who,86,WER 2003(42),2003,10,2003,10,2003,BFA,gadm2,31,203,NA,NA,NA,Sud-Ouest,Gaoua,NA,1,0,0,0,NA,Immunization,"The Crisis Committee of Gaoua met and a rapid vaccination campaign was carried out, covering all individual over the age of 6 months old living within 20 km of Gaoua. Surveillance has been intensified.",NA,BFA_31
+who,91,"AFRO 2004, don 3-Feb-2003",2003,1,NA,NA,2003,GIN,gadm2,4,12,NA,NA,NA,Kankan,Kerouane prefecture,NA,NA,NA,NA,NA,NA,yes,"A mass vaccination campaign has begun in Macenta and nearby prefectures, targetting a population of around 600 000 people. WHO and partners including MŽdecins sans Frontires Belgium, France and Switzerland are assisting the Ministry of Public Health with",NA,GIN_4
+who,91,don 3-Feb-2003,2003,1,NA,NA,2003,GIN,gadm2,8,32,NA,NA,NA,NA,Macenta,NA,NA,NA,NA,NA,NA,yes,"A mass vaccination campaign has begun in Macenta and nearby prefectures, targetting a population of around 600 000 people. WHO and partners including MŽdecins sans Frontires Belgium, France and Switzerland are assisting the Ministry of Public Health with",NA,GIN_8
+who,93,AFRO 2004,NA,NA,NA,NA,2003,LBR,gadm2,2,7,NA,NA,NA,Bong ,Salala,NA,10,2,3,NA,NA,NA,NA,NA,LBR_2
+who,93,AFRO 2004,NA,NA,NA,NA,2003,LBR,gadm2,12,50,NA,NA,NA,Nimba ,Gbehlageh ,NA,10,2,2,NA,NA,NA,NA,NA,LBR_12
+who,93,AFRO 2004,NA,NA,NA,NA,2003,LBR,gadm2,12,55,NA,NA,NA,Nimba ,Zoe-Geh,NA,25,NA,NA,NA,NA,NA,NA,NA,LBR_12
+who,96,"WER 2003(34), DON 2003",2003,8,NA,NA,2003,SLE,gadm2,2,8,NA,NA,NA,Northern ,Tonkolili,NA,NA,NA,NA,NA,NA,"Immunization, Investigation",Surveillance has been strengthened in the affected areas and measures have been taken for an immunization campaign to begin this week. The Ministry has an available stock of yellow fever vaccine to cover the affected population.. The Ministry of Health an,NA,SLE_2
+who,96,"AFRO 2004b, DON 2003",2003,8,NA,NA,2003,SLE,gadm1,2,NA,NA,NA,NA,Northern ,NA,NA,NA,NA,NA,NA,NA,Immunization,100000 immunizied,NA,SLE_2
+who,99,WER 2003(24),2003,5,NA,NA,2003,SSD,gadm2,2,6,NA,NA,NA,East equatoria,Torit County,NA,222,0,70,NA,NA,Immunization,"An emergency vaccine campaign has commenced in the affected areas of Torit County, and a wider campaign covering the whole county, and parts of the neighbouring counties of Budi and Magwi is being planned.",Onyango 2004 EID,SSD_2
+who,104,"AFRO 2004, AFRO 2004b",NA,NA,NA,NA,2002,GIN,gadm2,5,16,NA,NA,NA,Kindia,Coyah,NA,20,0,11,0,NA,Immunization,1.6 million doses YF vaccine,NA,GIN_5
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,2,6,NA,NA,NA,Diourbel,Touba,NA,33,33,NA,NA,NA,yes,NA,NA,SEN_2
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,2,6,NA,NA,NA,Diourbel,Mbacke,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_2
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,2,4,NA,NA,NA,Diourbel,Bambey,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_2
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,3,9,NA,NA,NA,Fatick,Gossas,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_3
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,3,7,NA,NA,NA,Fatick,Fatick,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_3
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm1,3,NA,NA,NA,NA,Fatick,Guinguineo,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_3
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm1,6,NA,NA,NA,NA,Louga,Darou Mousty,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_6
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,6,16,NA,NA,NA,Louga,Kebemer,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_6
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm1,10,NA,NA,NA,NA,Thies,Khombole,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_10
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm1,10,NA,NA,NA,NA,Thies,Tiadiaye,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_10
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,9,24,NA,NA,NA,Tambacounda,Tambacounda,NA,NA,NA,NA,NA,NA,yes,NA,NA,SEN_9
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,5,15,NA,NA,NA,Kolda,Sedhiou,NA,1,1,NA,NA,NA,yes,NA,NA,SEN_5
+NA,106,"wer 7741, 7742, 7743, 7745, don 4/11/18/25-Oct, 1/20/29-Nov-2002",2002,10,2002,11,2002,SEN,gadm2,1,1,NA,NA,NA,Dakar,Dakar centre,NA,1,1,NA,NA,NA,yes,NA,NA,SEN_1
+who,121,"don 4/5/12/13/18/15 Sep 2001, wer 7637, 7638, 7639, 7640, 7641",2001,9,2001,10,2001,CIV,gadm2,9,20,NA,NA,NA,Lagunes,Abidjan,NA,55,7,7,NA,NA,Immunization,"The immunization campaign targeting 2.9 million persons began at 2 pm on 21 September. Approximately 775,000 persons have been immunized in 3 days (21-23 September). Active surveillance is taking place and surveillance programmes for adverse events follow",NA,CIV_9
+who,312,"WER 2001 (38), WER 2001 (40), DON 2001",2001,5,2001,5,2001,CIV,gadm2,5,11,NA,NA,NA,Montagnes,Danane,NA,NA,NA,NA,NA,NA,yes,NA,NA,CIV_5
+who,312,"WER 2001 (38), WER 2001 (40), DON 2001",2001,5,2001,5,2001,CIV,gadm2,11,26,NA,NA,NA,Moyen-Cavally,Duekoue,NA,NA,NA,NA,NA,NA,yes,NA,NA,CIV_11
+NA,126,"don 25-Sep-01, wer 7640",2001,9,2001,9,2001,GIN,gadm1,2,NA,NA,NA,NA,Conakry,NA,NA,18,2,2,NA,NA,NA,NA,NA,GIN_2
+NA,126,"don 25-Sep-01, wer 7640",2001,9,2001,9,2001,GIN,gadm1,8,NA,NA,NA,NA,Nzerekore,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,GIN_8
+who,130,"don 24 Aug 2000, wer7635",NA,NA,NA,NA,2001,LBR,gadm1,2,NA,NA,NA,NA,Bong ,NA,NA,1,NA,NA,NA,NA,NA,"The Ministry of Health's Epidemic Management Committee is planning a vaccination campaign in the affected county, but additional vaccine stocks will be needed to implement the emergency immunization programme",NA,LBR_2
+who,130,"don 24 Aug 2000, wer7635",NA,NA,NA,NA,2001,LBR,gadm1,10,NA,NA,NA,NA,Maryland,NA,NA,1,NA,NA,NA,NA,NA,"The Ministry of Health's Epidemic Management Committee is planning a vaccination campaign in the affected county, but additional vaccine stocks will be needed to implement the emergency immunization programme",NA,LBR_10
+who,130,"don 24 Aug 2000, wer7635",NA,NA,NA,NA,2001,LBR,gadm1,4,NA,NA,NA,NA,Grand Cape Mount,NA,NA,3,1,NA,NA,NA,NA,"The Ministry of Health's Epidemic Management Committee is planning a vaccination campaign in the affected county, but additional vaccine stocks will be needed to implement the emergency immunization programme",NA,LBR_4
+who,130,"don 24 Aug 2000, wer7635",NA,NA,NA,NA,2001,LBR,gadm1,12,NA,NA,NA,NA,Nimba ,NA,NA,59,0,0,NA,NA,NA,"The Ministry of Health's Epidemic Management Committee is planning a vaccination campaign in the affected county, but additional vaccine stocks will be needed to implement the emergency immunization programme",NA,LBR_12
+who,141,"don 24-Aug-2000, 11-Sep-2000, wer7536, 7537",2000,8,2000,9,2000,LBR,gadm1,4,NA,NA,NA,NA,Grand Cap Mount,NA,NA,102,1,29,NA,1 of 5 samples tested was positive by IgM,yes,"On 5 September, WHO, working with NGOs in the area, began a campaign to vaccinate 150 000 people in the region at risk.  The plan was to have vaccinated 60 000 people by 10 September. WHO will provide additional doses of vaccine to conduct ""catch up"" camp",NA,LBR_4
+who,142,don 19-may-2000,2000,5,NA,NA,2000,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,2,0,0,0,NA,"Immunization, Surveillance","In collaboration with WHO, UNICEF and MŽdecins sans Frontires, the Ministry is planning to conduct a mass vaccination campaign in the affected areas of Kano State and Ekiti State.",NA,NGA_20
+who,143,wer 7540,1998,11,1998,12,1998,BFA,gadm2,31,203,NA,NA,NA,Sud-Ouest,Gaoua,NA,2,1,1,0,NA,Immunization,"Vaccination campaign, 30000 vaccine doses distributed",NA,BFA_31
+who,144,"wer 7540, WHO outbreaklist",1998,6,NA,NA,1998,LBR,gadm3,12,55,38271,NA,NA,Nimba ,Duowin town,NA,25,4,7,NA,NA,Immunization,180000 people immunizied,NA,LBR_12
+who,146,"WER 1998(46), WHO outbreaklist 2005",1996,7,1997,2,1997,BEN,gadm2,1,1,NA,NA,NA,Alibori,Banikoara,NA,1,NA,NA,NA,NA,NA,NA,NA,BEN_1
+who,146,"WER 1998(46), WHO outbreaklist 2005",1996,7,1997,2,1997,BEN,gadm2,4,24,NA,NA,NA,Borgou,Bembereke,NA,1,NA,NA,NA,NA,NA,NA,NA,BEN_4
+who,146,"WER 1998(46), WHO outbreaklist 2005",1996,7,1997,2,1997,BEN,gadm2,4,26,NA,NA,NA,Borgou,N'Dali,NA,1,NA,NA,NA,NA,NA,NA,NA,BEN_4
+who,146,"WER 1998(46), WHO outbreaklist 2005",1996,7,1997,2,1997,BEN,gadm1,4,NA,NA,NA,NA,Borgou,Kerou,NA,18,0,8,0,NA,NA,NA,NA,BEN_4
+who,154,"wer 7233, 7346",1997,7,NA,NA,1997,LBR,gadm2,8,38,NA,NA,NA,Lofa ,Voinjama district,NA,1,1,1,1,IgM,NA,A mass vaccination campaign is being organized,NA,LBR_8
+who,157,"WER 1996 (40), WER 1996(45)",1996,7,1997,2,1996,BEN,gadm2,1,1,NA,NA,NA,Alibori,Banikoara,NA,1,NA,NA,NA,IgM,"Immunization, Surveillance",NA,NA,BEN_1
+who,157,"WER 1996 (40), WER 1996(45)",1996,7,1997,2,1996,BEN,gadm2,2,9,NA,NA,NA,Atacora,Kerou,NA,68,0,32,NA,IgM,"Immunization, Surveillance",89000 vaccine doses,NA,BEN_2
+who,157,"WER 1996 (40), WER 1996(45)",1996,7,1997,2,1996,BEN,gadm2,4,26,NA,NA,NA,Borgou,N'Dali,NA,1,NA,NA,NA,IgM,"Immunization, Surveillance",NA,NA,BEN_4
+who,157,"WER 1996 (40), WER 1996(45)",1996,7,1997,2,1996,BEN,gadm2,4,24,NA,NA,NA,Borgou,Bembereke,NA,46,0,32,NA,IgM,"Immunization, Surveillance",86000 vaccine doses,NA,BEN_4
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,6,80,NA,NA,NA,Northern ,East Mamprusi,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_6
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,6,91,NA,NA,NA,Northern ,West Mamprusi,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_6
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,7,96,NA,NA,NA,Upper East ,Bolgatanga,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_7
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,7,98,NA,NA,NA,Upper East ,Builsa,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_7
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,7,100,NA,NA,NA,Upper East ,Kassena-Nankani,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_7
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,7,95,NA,NA,NA,Upper East ,Bawku West,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_7
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,7,97,NA,NA,NA,Upper East ,Bongo,NA,NA,NA,NA,NA,NA,NA,NA,NA,GHA_7
+who,161,"WER 1996(49), WHO outbreaklist 2005",1996,11,1997,early,1996,GHA,gadm2,7,94,NA,NA,NA,Upper East ,Bawku East district,NA,74,NA,NA,NA,NA,Immunization,NA,NA,GHA_7
+who,169,"WER 1996(49), WHO outbreaklist 2006",1996,11,1996,12,1996,SEN,gadm1,4,NA,NA,NA,NA,Kaolack,Koungheul ,NA,128,0,60,0,NA,immunization,NA,"Faye 2007, Thonnon 1998 (T Med Int Health), Thonnon 1999 (Bull Soc Path Ex)",SEN_4
+who,171,"WER 1995 (23), WER 1995 (31)",1994,11,1995,1,1995,GAB,gadm1,6,NA,NA,NA,NA,Ogooue Ivindo ,Makokou region,NA,16,1,10,NA,NA,"Immunization, Investigation",Immunization of the whole country,Georges 1999,GAB_6
+who,172,"wer 7142, 7113, 7024",NA,NA,NA,NA,1995,KEN,gadm1,7,34,NA,NA,NA,Rift Valley ,Keiyo,NA,1,NA,NA,NA,NA,NA,increased sentinel surveillance,NA,KEN_7
+who,172,"wer 7142, 7113, 7024",NA,NA,NA,NA,1995,KEN,gadm2,7,34,NA,NA,NA,Rift Valley ,Marakwet,NA,1,NA,NA,NA,NA,NA,increased sentinel surveillance,NA,KEN_7
+who,172,"wer 7142, 7113, 7024",NA,NA,NA,NA,1995,KEN,gadm2,7,32,NA,NA,NA,Rift Valley ,Baringo,NA,1,NA,NA,NA,NA,NA,increased sentinel surveillance,NA,KEN_7
+who,172,"wer 7142, 7113, 7024",NA,NA,NA,NA,1995,KEN,gadm2,7,37,NA,NA,NA,Rift Valley ,"Nakuru, ",NA,27,3,15,NA,NA,NA,increased sentinel surveillance,NA,KEN_7
+who,177,"WER 1997(33), WHO outbreaklist 2005",1995,7,NA,NA,1995,LBR,gadm1,2,NA,NA,NA,NA,Bong ,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_2
+who,177,"WER 1997(33), WHO outbreaklist 2005",1995,7,NA,NA,1995,LBR,gadm3,5,23,38114,NA,NA,Grand Bassa ,Buchanan,NA,359,55,9,NA,NA,Immunization,80% of 1.3 million people immunized,NA,LBR_5
+who,177,"WER 1997(33), WHO outbreaklist 2005",1995,7,NA,NA,1995,LBR,gadm2,11,47,NA,NA,NA,Montserrado,Monrovia,NA,1,NA,NA,NA,NA,NA,NA,NA,LBR_11
+who,180,"WER 1996(49), WHO outbreaklist 2013",1995,10,1995,11,1995,SEN,gadm2,4,10,NA,NA,NA,Kaolack,Kaffrine ,NA,110,79,46,15,NA,immunization,NA,"Faye 2007, Thonnon 1998 (AJTMH)",SEN_4
+who,181,"wer 7051, 7148",1995,12,NA,NA,1995,SLE,gadm2,1,1,NA,NA,NA,Eastern ,Kenema,NA,33,4,4,NA,NA,Immunization,320000 vaccine doses,NA,SLE_1
+who,182,WER 1995 (31),1994,11,1994,12,1994,CMR,gadm1,1,5,NA,NA,NA,Adamaoua ,"Bamyanga III,Burkina,Baladji",NA,10,5,5,NA,NA,yes,NA,NA,CMR_1
+who,171,"WER 1995 (23), WER 1995 (31)",NA,NA,NA,NA,1994,GAB,gadm1,6,NA,NA,NA,NA,Ogooue Ivindo ,Makokou region,NA,28,0,18,0,NA,"Immunization, Investigation",Immunization of the whole country,Georges 1999,GAB_6
+who,189,WER 1995 (31),1993,10,1994,5,1994,GHA,gadm2,8,102,NA,NA,NA,Upper West ,Jiripa,NA,79,0,11,0,NA,NA,NA,NA,GHA_8
+who,186,"wer 7142, 7113, 7024",NA,NA,NA,NA,1994,KEN,gadm1,7,NA,NA,NA,NA,Rift Valley ,NA,NA,7,7,3,3,NA,NA,increased sentinel surveillance,NA,KEN_7
+who,187,WER 1995 (31),1994,9,1994,12,1994,NGA,gadm2,17,313,NA,NA,NA,Imo ,Orsu LGA,NA,1222,0,415,0,NA,yes,NA,"Moreau 1999: 1200 cases, 415 deaths",NGA_17
+who,192,WER 1995 (31),1993,10,1994,1,1994,NGA,gadm2,17,313,NA,NA,NA,Imo ,Orsu LGA,NA,5,0,0,0,NA,NA,NA,NA,NGA_17
+who,325,WER 1995(70),1993,10,1994,5,1993,GHA,gadm2,8,102,NA,NA,NA,Upper West ,Jiripa,NA,39,9,15,NA,NA,Immunization,NA,NA,GHA_8
+who,190,"wer 7010, 6822, 6811, 6806",1992,9,1993,3,1993,KEN,gadm2,7,34,NA,NA,NA,Rift Valley ,Elgeyo,NA,1,NA,NA,NA,NA,Immunization,1 million people vaccinated ,"Rynn 2007, Sanders 1998, Reiter 1998",KEN_7
+who,190,"wer 7010, 6822, 6811, 6806",1992,9,1993,3,1993,KEN,gadm2,7,32,NA,NA,NA,Rift Valley ,Baringo ,NA,27,15,0,0,NA,Immunization,1 million people vaccinated ,"Rynn 2007, Sanders 1998, Reiter 1998",KEN_7
+don-who,193,"wer 7015, 7010",1993,10,1994,1,1993,NGA,gadm2,4,81,NA,NA,NA,Anambra ,Ihilala LGA,NA,NA,NA,NA,NA,NA,yes,NA,NA,NGA_4
+who,193,"wer 7010, WER 1995(15)",1993,10,1994,1,1993,NGA,gadm2,17,NA,NA,NA,NA,Imo ,Oru,NA,NA,NA,NA,NA,NA,yes,NA,NA,NGA_17
+NA,191,"wer 7010, 6822, 6811, 6806",1992,9,1993,3,1992,KEN,gadm1,7,NA,NA,NA,NA,NA,NA,NA,54,4,28,NA,NA,Immunization,1 million people vaccinated ,"Rynn 2007, Sanders 1998, Reiter 1998",KEN_7
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,4,NA,NA,NA,NA,Anambra ,NA,NA,36,NA,0,0,NA,NA,NA,NA,NGA_4
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,5,NA,NA,NA,NA,Bauchi ,NA,NA,3,NA,0,0,NA,NA,NA,NA,NGA_5
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,8,NA,NA,NA,NA,Borno ,NA,NA,110,NA,21,NA,NA,NA,NA,NA,NGA_8
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,1092,NA,47,NA,NA,NA,NA,NA,NGA_20
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,21,NA,NA,NA,NA,Katsina,NA,NA,989,NA,406,NA,NA,NA,NA,NA,NGA_21
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,25,NA,NA,NA,NA,Lagos ,NA,NA,3,NA,0,0,NA,NA,NA,NA,NGA_25
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,27,NA,NA,NA,NA,Niger,NA,NA,2,NA,0,0,NA,NA,NA,NA,NGA_27
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,29,NA,NA,NA,NA,Ondo ,NA,NA,7,NA,0,0,NA,NA,NA,NA,NGA_29
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,30,NA,NA,NA,NA,Osun,NA,NA,2,NA,0,0,NA,NA,NA,NA,NGA_30
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,31,NA,NA,NA,NA,Oyo ,NA,NA,12,NA,0,0,NA,NA,NA,NA,NGA_31
+who,195,wer 6829,NA,NA,NA,NA,1991,NGA,gadm1,32,NA,NA,NA,NA,Plateau,NA,NA,6,NA,4,NA,NA,NA,NA,NA,NGA_32
+who,208,"wer 6548, 6611",1990,9,NA,NA,1990,CMR,gadm2,4,25,NA,NA,NA,Extreme-Nord,Mayo-Tsangana,NA,NA,NA,NA,NA,NA,NA,NA,NA,CMR_4
+who,208,"wer 6548, 6611",1990,9,NA,NA,1990,CMR,gadm2,4,24,NA,NA,NA,Extreme-Nord,Mayo-Sava,NA,NA,NA,NA,NA,NA,NA,NA,Vicens 1993,CMR_4
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,4,NA,NA,NA,NA,Anambra ,NA,NA,54,0,26,0,NA,NA,NA,NA,NGA_4
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,5,NA,NA,NA,NA,Bauchi ,NA,NA,1,0,0,0,NA,NA,NA,NA,NGA_5
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,8,NA,NA,NA,NA,Borno ,NA,NA,272,0,25,0,NA,NA,NA,NA,NGA_8
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,9,NA,NA,NA,NA,Cross River ,NA,NA,10,0,0,0,NA,NA,NA,NA,NGA_9
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,19,NA,NA,NA,NA,Kaduna ,NA,NA,13,0,1,0,NA,NA,NA,NA,NGA_19
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,366,0,64,0,NA,NA,NA,NA,NGA_20
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,24,NA,NA,NA,NA,Kwara ,NA,NA,9,0,4,0,NA,NA,NA,NA,NGA_24
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,28,NA,NA,NA,NA,Ogun ,NA,NA,15,0,0,0,NA,NA,NA,NA,NGA_28
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,29,NA,NA,NA,NA,Ondo ,NA,NA,1,0,0,0,NA,NA,NA,NA,NGA_29
+who,210,"wer 6733, 6829",NA,NA,NA,NA,1990,NGA,gadm1,34,NA,NA,NA,NA,Sokoto,NA,NA,118,0,24,0,NA,NA,NA,NA,NGA_34
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,8,NA,NA,NA,NA,Borno ,NA,NA,12,0,0,0,NA,NA,NA,NA,NGA_8
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,17,NA,NA,NA,NA,Imo ,NA,NA,1308,0,224,0,NA,NA,NA,NA,NGA_17
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,19,NA,NA,NA,NA,Kaduna ,NA,NA,1709,0,258,0,NA,NA,NA,NA,NGA_19
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,8,0,7,0,NA,NA,NA,NA,NGA_20
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,21,NA,NA,NA,NA,Katsina,NA,NA,8,0,7,0,NA,NA,NA,NA,NGA_21
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,24,NA,NA,NA,NA,Kwara ,NA,NA,13,0,13,0,NA,NA,NA,NA,NGA_24
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,25,NA,NA,NA,NA,Lagos ,NA,NA,1,0,0,0,NA,NA,NA,NA,NGA_25
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,31,NA,NA,NA,NA,Oyo ,NA,NA,100,0,60,0,NA,NA,NA,NA,NGA_31
+who,222,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,32,NA,NA,NA,NA,Plateau,NA,NA,2,0,0,0,NA,NA,NA,NA,NGA_32
+who,232,"wer 6733, 6829",NA,NA,NA,NA,1989,NGA,gadm1,34,NA,NA,NA,NA,Sokoto,NA,NA,30,0,0,0,NA,NA,NA,NA,NGA_34
+who,233,wer 6418,1988,5,1988,11,1988,AGO,gadm1,11,NA,NA,NA,NA,Luanda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AGO_11
+who,233,WER 1990(28),1988,5,1988,11,1988,AGO,gadm1,1,NA,NA,NA,NA,Bengo,NA,NA,NA,NA,NA,NA,NA,Immunization,Immunization coverage in Luanda 85%,NA,AGO_1
+who,234,"wer 6733, 6829",NA,NA,NA,NA,1988,NGA,gadm1,4,NA,NA,NA,NA,Anambra ,NA,NA,87,0,45,0,NA,NA,NA,NA,NGA_4
+who,234,"wer 6733, 6829",NA,NA,NA,NA,1988,NGA,gadm1,5,NA,NA,NA,NA,Bauchi ,NA,NA,1103,0,283,0,NA,NA,NA,NA,NGA_5
+who,234,"wer 6733, 6829",NA,NA,NA,NA,1988,NGA,gadm1,7,NA,NA,NA,NA,Benue,NA,NA,21,0,15,0,NA,NA,NA,NA,NGA_7
+who,234,"wer 6733, 6829",NA,NA,NA,NA,1988,NGA,gadm1,8,NA,NA,NA,NA,Borno ,NA,NA,4,0,0,0,NA,NA,NA,NA,NGA_8
+who,234,"wer 6733, 6829",NA,NA,NA,NA,1988,NGA,gadm1,9,NA,NA,NA,NA,Cross River ,NA,NA,1,0,0,0,NA,NA,NA,NA,NGA_9
+who,234,"wer 6733, 6829",NA,NA,NA,NA,1988,NGA,gadm1,19,NA,NA,NA,NA,Kaduna ,NA,NA,518,0,298,0,NA,NA,NA,NA,NGA_19
+who,234,WER 1990(28)WER 1992(67),NA,NA,NA,NA,1988,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,9,NA,1,NA,NA,NA,NA,NA,NGA_20
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,9,0,1,0,NA,NA,NA,NA,NGA_20
+who,234,WER 1990(28)WER 1992(67),NA,NA,NA,NA,1988,NGA,gadm1,21,NA,NA,NA,NA,Katsina,NA,NA,2795,NA,794,NA,NA,NA,NA,NA,NGA_21
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,24,NA,NA,NA,NA,Kwara ,NA,NA,9,0,4,0,NA,NA,NA,NA,NGA_24
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,25,NA,NA,NA,NA,Lagos ,NA,NA,1,0,0,0,NA,NA,NA,NA,NGA_25
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,27,NA,NA,NA,NA,Niger,NA,NA,43,0,30,0,NA,NA,NA,NA,NGA_27
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,31,NA,NA,NA,NA,Oyo ,NA,NA,263,0,22,0,NA,NA,NA,NA,NGA_31
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,32,NA,NA,NA,NA,Plateau,NA,NA,1,0,0,0,NA,NA,NA,NA,NGA_32
+who,234,wer 6733,NA,NA,NA,NA,1988,NGA,gadm1,34,NA,NA,NA,NA,Sokoto,NA,NA,10,0,30,0,NA,NA,NA,NA,NGA_34
+who,250,WER 1989(6406),1987,10,NA,NA,1987,GIN,gadm2,4,15,NA,NA,NA,Kankan,Siguiri Prefecture,NA,5,2,2,NA,NA,NA,linked to Mali outbreak,NA,GIN_4
+who,251,"WER 1989(6), WER 1987(44)",1987,9,1987,11,1987,MLI,gadm2,3,10,NA,NA,NA,Kayes,Kita cercles,NA,NA,NA,NA,NA,NA,Immunization,"3 million vaccinated, 84% of pupulatio","Moreau 1999: 1500 cases, 750 deaths, Kurz 1990, Monath 2008 WHO report: 305 officially notified cases",MLI_3
+who,251,"WER 1989(6), WER 1987(44)",1987,9,1987,11,1987,MLI,gadm2,5,21,NA,NA,NA,Koulikoro,Kolokani cercles,NA,NA,NA,NA,NA,NA,Immunization,"3 million vaccinated, 84% of pupulatio","Moreau 1999: 1500 cases, 750 deaths",MLI_5
+who,251,"WER 1989(6), WER 1987(44)",1987,9,1987,11,1987,MLI,gadm2,5,19,NA,NA,NA,Koulikoro,Kangaba cercles,NA,NA,NA,NA,NA,NA,Immunization,"3 million vaccinated, 84% of pupulatio","Moreau 1999: 1500 cases, 750 deaths",MLI_5
+who,251,"WER 1989(6), WER 1987(44)",1987,9,1987,11,1987,MLI,gadm2,5,20,NA,NA,NA,Koulikoro,Kati,NA,NA,NA,NA,NA,NA,Immunization,"3 million vaccinated, 84% of pupulatio","Moreau 1999: 1500 cases, 750 deaths",MLI_5
+who,255,WER 1989(6),1987,10,1987,12,1987,MRT,gadm1,13,NA,NA,NA,NA,NA,Trarza,NA,21,0,1,NA,NA,Immunization,NA,"Monath 2008, who report",MRT_13
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,4,NA,NA,NA,NA,Anambra ,NA,NA,4,0,0,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_4
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,7,NA,NA,NA,NA,Benue,NA,NA,302,20,0,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_7
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,8,NA,NA,NA,NA,Borno ,NA,NA,9,0,0,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_8
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,19,NA,NA,NA,NA,Kaduna ,NA,NA,206,0,44,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_19
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,14,0,4,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_20
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,24,NA,NA,NA,NA,Kwara ,NA,NA,8,0,6,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_24
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,25,NA,NA,NA,NA,Lagos ,NA,NA,71,0,9,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_25
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,27,NA,NA,NA,NA,Niger,NA,NA,849,0,26,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_27
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,28,NA,NA,NA,NA,Ogun ,NA,NA,128,0,12,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_28
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,29,NA,NA,NA,NA,Ondo ,NA,NA,9,0,3,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_29
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,31,NA,NA,NA,NA,Oyo ,Ogbomosho city,NA,905,0,482,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_31
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,32,NA,NA,NA,NA,Plateau,NA,NA,15,0,0,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_32
+who,256,"wer 6733, 6406",NA,NA,NA,NA,1987,NGA,gadm1,34,NA,NA,NA,NA,Sokoto,NA,NA,143,0,58,0,NA,"Immunization, vector control","17 million people vaccinated, 28% of the population",NA,NGA_34
+who,270,WER 1989(6),NA,NA,NA,NA,1987,TGO,gadm1,4,NA,NA,NA,NA,Plateaux,NA,NA,5,0,0,NA,NA,NA,NA,NA,TGO_4
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,7,NA,NA,NA,NA,Benue,NA,NA,559,0,200,NA,NA,immunization: campaign begun late Oct 1986,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_7
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,9,NA,NA,NA,NA,Cross River ,NA,NA,697,0,222,NA,NA,immunization: campaign begun late Oct 1987,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_9
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,20,NA,NA,NA,NA,Kano ,NA,NA,4,0,1,NA,NA,immunization: campaign begun late Oct 1988,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_20
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,27,NA,NA,NA,NA,Niger,NA,NA,9,0,1,NA,NA,immunization: campaign begun late Oct 1989,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_27
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,28,NA,NA,NA,NA,Ogun ,NA,NA,1,0,0,0,NA,immunization: campaign begun late Oct 1990,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_28
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,29,NA,NA,NA,NA,Ondo ,NA,NA,2,0,0,0,NA,immunization: campaign begun late Oct 1991,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_29
+who,271,wer 6733,1986,7,1986,12,1986,NGA,gadm1,31,NA,NA,NA,NA,Oyo ,NA,NA,15,0,0,0,NA,immunization: campaign begun late Oct 1992,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_31
+who,271,"wer 6249, 6733",1986,7,1986,12,1986,NGA,gadm1,34,NA,NA,NA,NA,Sokoto,NA,NA,2,0,0,0,NA,immunization: campaign begun late Oct 1993,NA,"Moreau 1999: 30000 cases, 10000 deaths, deCock 1988 Lancet",NGA_34
+who,279,WER 1986(49),NA,NA,NA,NA,1985,BFA,gadm1,4,NA,NA,NA,NA,Cascades,Bazega,NA,1,NA,NA,NA,NA,NA,NA,NA,BFA_4
+who,279,WER 1986(49),NA,NA,NA,NA,1985,BFA,gadm1,6,NA,NA,NA,NA,Centre-Est,Boulgou,NA,1,NA,NA,NA,NA,NA,NA,NA,BFA_6
+who,279,WER 1986(49),NA,NA,NA,NA,1985,BFA,gadm1,7,NA,NA,NA,NA,Centre-Ouest,Bulkiemde,NA,1,NA,NA,NA,NA,NA,NA,NA,BFA_7
+who,279,WER 1986(49),NA,NA,NA,NA,1985,BFA,gadm1,10,NA,NA,NA,NA,Est,Gourma,NA,2,NA,NA,NA,NA,NA,NA,NA,BFA_10
+who,279,WER 1986(49),NA,NA,NA,NA,1985,BFA,gadm1,38,NA,NA,NA,NA,Est,Tapoa,NA,3,0,NA,0,NA,NA,NA,NA,BFA_38
+who,285,WER 1985(43),NA,NA,NA,NA,1984,BFA,gadm1,2,NA,NA,NA,NA,Hauts Bassins,Bam,NA,1,NA,NA,NA,NA,Immunization,NA,NA,BFA_2
+who,285,WER 1985(43),NA,NA,NA,NA,1984,BFA,gadm1,6,NA,NA,NA,NA,Centre-Est,Boulgou,NA,1,NA,NA,NA,NA,Immunization,NA,NA,BFA_6
+who,285,WER 1985(43),NA,NA,NA,NA,1984,BFA,gadm1,10,NA,NA,NA,NA,Est,Gourma,NA,1,NA,NA,NA,NA,Immunization,NA,NA,BFA_10
+who,285,WER 1985(43),NA,NA,NA,NA,1984,BFA,gadm1,28,NA,NA,NA,NA,Plateau Central,Oubritenga,NA,1,NA,NA,NA,NA,Immunization,NA,NA,BFA_28
+who,324,WER 1985(43),NA,NA,NA,NA,1984,BFA,gadm2,15,105,NA,NA,NA,Cascades,Banfora,NA,13,1,NA,NA,NA,Immunization,NA,NA,BFA_15
+who,291,WER 1985(43),NA,NA,NA,NA,1984,CMR,gadm2,4,20,NA,NA,NA,NA,NA,NA,1,0,0,0,NA,NA,NA,NA,CMR_4
+who,292,wer 6043,NA,NA,NA,NA,1984,NGA,gadm1,27,NA,NA,NA,NA,Niger,NA,NA,12,0,1,0,none performed,NA,NA,NA,NGA_27
+who,294,WER 1984(43),NA,NA,NA,NA,1983,BFA,gadm2,10,68,NA,NA,NA,Est,Fada-N'Gourma region ,NA,1,NA,NA,NA,NA,NA,NA,"Moreau 1999: 12500 cases, >1000 deaths",BFA_10
+who,294,WER 1984(43),NA,NA,NA,NA,1983,BFA,gadm1,13,NA,NA,NA,NA,Centre,Ouagadougou,NA,1,NA,NA,NA,NA,"Immunization, vector control",1 million immunized,"Moreau 1999: 12500 cases, >1000 deaths",BFA_13
+who,294,WER 1984(43),NA,NA,NA,NA,1983,BFA,gadm1,13,NA,NA,NA,NA,Centre,Ouagadougou,NA,1,NA,NA,NA,NA,"Immunization, vector control",1 million immunized,"Moreau 1999: 12500 cases, >1000 deaths",BFA_13
+who,294,WER 1984(43),NA,NA,NA,NA,1983,BFA,gadm2,6,37,NA,NA,NA,Centre-Est,Tenkodogo,NA,1,NA,NA,NA,NA,NA,NA,"Moreau 1999: 12500 cases, >1000 deaths",BFA_6
+who,298,WER 1984(43),NA,NA,NA,NA,1983,GHA,gadm2,6,90,NA,NA,NA,Northern ,West Gonja,NA,1,NA,NA,NA,NA,"Immunization, vector control",NA,NA,GHA_6
+who,298,WER 1984(43),NA,NA,NA,NA,1983,GHA,gadm1,6,NA,NA,NA,NA,Northern ,Nalerigu village,NA,1,NA,NA,NA,NA,"Immunization, vector control",NA,NA,GHA_6
+who,298,WER 1984(43),NA,NA,NA,NA,1983,GHA,gadm2,7,94,NA,NA,NA,Upper East ,Bawka region,NA,1,NA,NA,NA,NA,"Immunization, vector control",NA,NA,GHA_7
+who,302,WER 1983(41),1982,4,NA,NA,1982,CIV,gadm2,17,42,NA,NA,NA,Vallee du Bandaman,Bouake,NA,25,1,25,NA,NA,"Immunization, vector control, quarantaine",NA,NA,CIV_17
+who,303,WER 1983(41),NA,NA,NA,NA,1982,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,3,0,NA,0,NA,NA,NA,NA,GHA_2
+who,303,WER 1983(41),NA,NA,NA,NA,1982,GHA,gadm1,3,NA,NA,NA,NA,Central,NA,NA,2,0,NA,0,NA,NA,NA,NA,GHA_3
+who,303,WER 1983(41),NA,NA,NA,NA,1982,GHA,gadm1,9,NA,NA,NA,NA,Volta,NA,NA,1,0,NA,0,NA,NA,NA,NA,GHA_9
+NA,323,wer 5743,1982,4,1982,5,1982,NGA,gadm1,25,NA,NA,NA,NA,Lagos ,NA,NA,96,0,0,0,NA,NA,NA,NA,NGA_25
+who,306,WER 1982(39),NA,NA,NA,NA,1981,GHA,gadm1,3,NA,NA,NA,NA,Central,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,GHA_3
+who,306,WER 1982(39),NA,NA,NA,NA,1981,GHA,gadm1,4,NA,NA,NA,NA,Eastern ,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,GHA_4
+who,308,wer 5739,1981,8,NA,NA,1981,SEN,gadm2,4,10,NA,NA,NA,NA,Sine-Saloum,NA,1,NA,NA,NA,NA,Immunization,700000 people immunized,"Faye 2007, WHO WER 1982(22),pp22",SEN_4
+who,308,wer 5739,1981,8,NA,NA,1981,SEN,gadm1,10,NA,NA,NA,NA,Thies,NA,NA,2,NA,NA,NA,NA,Immunization,700000 people immunized,"Faye 2007, WHO WER 1982(22),pp23",SEN_10
+who,310,WER 1981(33),NA,NA,NA,NA,1980,CMR,gadm2,4,20,NA,NA,NA,Extreme-Nord,Diamare,NA,7,NA,2,NA,NA,Immunization,60000 people vaccinated,NA,CMR_4
+who,311,WER 1981(33),NA,NA,NA,NA,1980,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,6,NA,NA,NA,NA,Immunization,NA,NA,GHA_2
+who,311,WER 1981(33),NA,NA,NA,NA,1980,GHA,gadm1,9,NA,NA,NA,NA,Volta,NA,NA,2,NA,NA,NA,NA,Immunization,NA,NA,GHA_9
+who,313,wer 5633,NA,NA,NA,NA,1980,NGA,gadm1,29,NA,NA,NA,NA,Ondo ,NA,NA,1,NA,0,0,NA,NA,NA,NA,NGA_29
+NA,326,wer5511,1979,7,1979,10,1979,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,57,NA,22,NA,NA,yes,NA,NA,GHA_2
+NA,326,wer5511,1979,1,1979,9,1979,GHA,gadm1,4,NA,NA,NA,NA,Eastern ,NA,NA,206,NA,44,NA,NA,yes,NA,NA,GHA_4
+NA,326,wer5511,1978,9,1979,8,1979,GHA,gadm1,9,NA,NA,NA,NA,Volta,NA,NA,181,NA,28,NA,NA,yes,NA,NA,GHA_9
+NA,326,wer5511,1979,7,1979,7,1979,GHA,gadm1,5,NA,NA,NA,NA,Greater Accra,NA,NA,2,NA,2,NA,NA,yes,NA,NA,GHA_5
+NA,328,"wer 5440, 5545",1977,8,NA,NA,1977,GHA,gadm1,7,NA,NA,NA,NA,Upper Region,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,GHA_7
+NA,328,"wer 5545, 5441",NA,NA,NA,NA,1977,GHA,gadm1,8,NA,NA,NA,NA,Upper Region,NA,NA,NA,NA,NA,NA,NA,no,NA,NA,GHA_8
+NA,328,"wer 5545, 5441",NA,NA,NA,NA,1977,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,2,NA,2,NA,NA,no,NA,NA,GHA_2
+NA,327,"wer 5447, 5545, 5441",NA,NA,NA,NA,1978,GHA,gadm1,7,NA,NA,NA,NA,Upper,NA,NA,14,NA,1,NA,NA,no,NA,NA,GHA_7
+NA,327,"wer 5447, 5545, 5441",NA,NA,NA,NA,1978,GHA,gadm1,8,NA,NA,NA,NA,Upper,NA,NA,14,NA,2,NA,NA,no,NA,NA,GHA_8
+NA,327,"wer 5447, 5545, 5441",NA,NA,NA,NA,1978,GHA,gadm1,4,NA,NA,NA,NA,Eastern ,NA,NA,32,NA,12,NA,NA,no,NA,NA,GHA_4
+NA,327,"wer 5447, 5545, 5441",NA,NA,NA,NA,1978,GHA,gadm1,9,NA,NA,NA,NA,Volta,NA,NA,159,NA,25,NA,NA,no,NA,NA,GHA_9
+NA,330,wer 5545,1979,10,1979,10,1979,SEN,gadm3,3,8,227790,NA,NA,Fatick,Foundiougne,Toubacouta,3,3,2,2,NA,no,tourists infected in the country,NA,SEN_3
+NA,331,wer5545,1979,1,1979,2,1979,NGA,gadm1,5,NA,NA,NA,NA,Bauchi state,Bauchi town and Azare town,NA,11,NA,0,NA,NA,NA,NA,NA,NGA_5
+NA,333,wer5139,NA,NA,NA,NA,1975,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,1,NA,0,NA,NA,yes - in affected districts,NA,NA,GHA_2
+NA,334,wer5139,1975,1,NA,NA,1975,SLE,gadm2,1,NA,NA,NA,NA,Eastern,Kailahun,NA,NA,NA,NA,NA,NA,yes - in affected districts,NA,NA,SLE_1
+NA,334,wer5139,1975,1,NA,NA,1975,SLE,gadm2,1,NA,NA,NA,NA,Eastern,Kenema,NA,NA,NA,NA,NA,NA,yes - in affected districts,NA,NA,SLE_1
+NA,335,wer5139,NA,NA,NA,NA,1975,CMR,gadm2,10,55,NA,NA,NA,Sud,Diaet-Lobo,NA,1,NA,1,NA,NA,yes - in affected districts,NA,NA,CMR_10
+NA,335,wer5139,NA,NA,NA,NA,1975,CMR,gadm2,3,17,NA,NA,NA,Est,Upper Nyong,NA,1,NA,1,NA,NA,yes - in affected districts,NA,NA,CMR_3
+NA,336,"wer5139, 5034, 4915",1973,12,1974,4,1974,NGA,gadm1,9,NA,NA,NA,NA,South-Eastern State (now cross river),NA,NA,23,NA,10,NA,NA,yes 1100000 doses in Cross-River state,NA,NA,NGA_9
+NA,337,"wer5139, 5034",1974,4,1974,4,1974,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,1,NA,1,NA,NA,NA,NA,NA,GHA_2
+NA,338,"wer5034, 4944",1973,5,1973,10,1973,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,4,NA,4,NA,NA,no,NA,NA,GHA_2
+NA,338,"wer5034, 4944",1973,5,1973,10,1973,GHA,gadm1,9,NA,NA,NA,NA,Volta,NA,NA,2,NA,2,NA,NA,NA,NA,NA,GHA_9
+NA,339,"wer5034, 4931",1973,12,1973,12,1973,NGA,gadm1,9,NA,NA,NA,NA,south-eastern state,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NGA_9
+NA,339,"wer5034, 4931",NA,NA,NA,NA,1973,CMR,gadm2,3,17,NA,NA,NA,NA,Haut-Nyong,NA,1,NA,0,NA,NA,NA,NA,NA,CMR_3
+NA,340,"wer 4944, 4931",1972,5,1972,10,1972,GHA,gadm1,2,NA,NA,NA,NA,Brong-Ahafo,NA,NA,8,NA,8,NA,NA,no,NA,NA,GHA_2
+NA,341,"wer 4931, 4835",1972,11,1972,11,1972,CMR,gadm2,9,53,NA,NA,NA,Western region,Banso (Kumba),NA,1,1,1,1,histopathology,no,NA,NA,CMR_9
+NA,341,"wer 4931, 4835",1972,12,1972,12,1972,CMR,gadm1,2,NA,NA,NA,NA,south east,Ayos,NA,1,1,1,1,histopathology,no,NA,NA,CMR_2
+NA,342,"wer 4835, 4724",1971,1,1971,4,1971,AGO,gadm1,11,NA,NA,NA,NA,Luanda,NA,NA,NA,NA,NA,NA,NA,yes,NA,NA,AGO_11
+NA,343,"wer 4835, 4724",1971,12,1971,12,1971,COD,gadm1,3,NA,NA,NA,NA,Equateur,Gemana,NA,2,1,2,1,histopathology,yes - 350 000 doses,NA,NA,COD_3
+NA,349,wer 4631,NA,NA,NA,NA,1970,CMR,gadm2,2,13,NA,NA,NA,Nyong-et-Mfoumou,Ayos,NA,1,1,1,1,histopathology,no,NA,NA,CMR_2
+NA,346,wer 4631,1970,4,1970,5,1970,GHA,gadm1,4,NA,NA,NA,NA,Eastern,NA,NA,11,11,6,6,NA,yes - 364 000 doses,NA,NA,GHA_4
+NA,347,wer 4631,1970,12,1970,12,1970,GHA,gadm1,2,NA,NA,NA,NA,Brong Ahafo,Sunyani district,NA,1,NA,1,NA,NA,yes - 364 000 doses,NA,NA,GHA_2
+NA,344,wer 4631,1970,1,1970,2,1970,NGA,gadm1,32,NA,NA,NA,NA,Plateua,NA,NA,2,NA,NA,NA,NA,no,NA,NA,NGA_32
+NA,344,wer 4631,1970,2,1970,2,1970,NGA,gadm1,5,NA,NA,NA,NA,Bauchi,NA,NA,1,NA,NA,NA,NA,no,NA,NA,NGA_5
+NA,345,wer 4631,1970,7,1970,7,1970,NGA,gadm1,25,NA,NA,NA,NA,Lagos,NA,NA,1,NA,NA,NA,NA,no,NA,NA,NGA_25
+NA,348,wer 4631,1970,1,1970,1,1970,TGO,gadm2,4,17,NA,NA,NA,Palime,NA,NA,1,NA,1,NA,NA,no,NA,NA,TGO_4
+NA,348,wer 4631,1970,4,1970,4,1970,TGO,gadm2,1,1,NA,NA,NA,Bassiri,NA,NA,1,NA,1,NA,NA,no,NA,NA,TGO_1
+NA,351,"wer 4631, 4548",1969,9,NA,NA,1969,GHA,gadm1,6,NA,NA,NA,NA,Northern Region,Dagomba,NA,5,3,2,2,"histopathology, seroconversion",NA,NA,NA,GHA_6
+NA,353,"wer 4631, 4548",1969,11,1969,11,1969,MLI,gadm2,1,1,NA,NA,NA,Bamako,NA,NA,21,NA,12,NA,NA,NA,NA,NA,MLI_1
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_19
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_21
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_7
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_15
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_26
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_32
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_2
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_8
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_16
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_35
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_5
+NA,354,"wer 4631, 4548",1969,11,1969,12,1969,NGA,gadm1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes - 400 000 doses,NA,NA,NGA_37
+NA,355,"wer 4631, 4548",1969,11,1969,11,1969,TGO,gadm1,5,NA,NA,NA,NA,Savanes,Dapango,NA,1,1,1,1,histopathology,NA,NA,NA,TGO_5
+NA,352,"wer 4631, 4548",1969,10,1969,11,1969,BFA,gadm2,4,24,NA,NA,NA,NA,Kombissiri,NA,NA,NA,NA,NA,NA,NA,NA,NA,BFA_4
+NA,352,"wer 4631, 4548",1969,10,1969,11,1969,BFA,gadm2,44,300,NA,NA,NA,NA,Manga,NA,NA,NA,NA,NA,NA,NA,NA,NA,BFA_44
+NA,352,"wer 4631, 4548",1969,10,1969,11,1969,BFA,gadm2,4,25,NA,NA,NA,NA,Sapone,NA,NA,NA,NA,NA,NA,NA,NA,NA,BFA_4
+NA,352,"wer 4631, 4548",1969,10,1969,11,1969,BFA,gadm2,28,184,NA,NA,NA,NA,Ziniare,NA,NA,NA,NA,NA,NA,NA,NA,NA,BFA_28
